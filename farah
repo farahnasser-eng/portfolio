@@ -1,0 +1,955 @@
+# UNIVERSAL PORTFOLIO WEBSITE MASTER PROMPT
+
+You are an expert **data anlysis, backend developer, web designer**.
+
+I want you to design and build a **complete, modern, professional, production-ready personal portfolio website** for the person described below.
+
+Do not create a simple landing page. Build a **complete portfolio website with all necessary sections, pages, interactions, assets, responsive behavior, accessibility, SEO, and polished visual design**.
+
+---
+
+# 1. STUDENT INFORMATION
+
+Use the following information as the source of truth:
+
+**Name:** [Farah Nasser]
+
+**Professional Title:** [AI & Data scientist / Backend Node.js Developer/ Software Engineer]
+
+**Short Description:**
+[Iam computer science student with a strong interest in Data science,Backend Development]
+
+**Location:** [Cairo, Egypt]
+
+**Email:** [farahnasser449@gmail.com]
+
+
+**LinkedIn:** [https://www.linkedin.com/in/farah-nasser-b6b930368?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+**GitHub:** [https://github.com/farahnasser-eng]
+**Resume/CV:** [LINK OR FILE - OPTIONAL]
+
+---
+
+# 2. WEBSITE GOAL
+
+The primary goal of this portfolio is to:
+
+* Present the student's professional identity
+* Showcase their best projects
+* Demonstrate technical and creative skills
+* Make it easy for recruiters/clients to contact them
+* Build credibility
+* Encourage visitors to view projects and download the CV
+* Work as a professional online resume
+
+The website should feel like a **real professional portfolio**, not a student template.
+
+---
+
+# 3. TARGET AUDIENCE
+
+Design the website primarily for:
+
+* Recruiters
+* Hiring managers
+* Potential clients
+* Other developers/designers
+* Data&Ai professionals 
+* Data science / software Development talent
+
+The design should communicate:
+
+**[e.g. Creative / Professional / Technical / Modern / Innovative / Data-driven / Friendly]**
+
+---
+
+# 4. VISUAL STYLE
+
+Create a strong visual identity based on:
+
+**Design Direction:** [Modern professional data-science portfolio with a Clean technical aesthetic]
+
+Examples:
+
+* Minimal & clean
+* Modern SaaS
+* Creative developer
+* Editorial
+* Dark futuristic
+* Luxury
+* Swiss design
+* Glassmorphism
+* Neo-brutalism
+* Elegant monochrome
+* Bold colorful
+
+**Primary Color:** [COLOR]
+
+**Secondary Color:** [COLOR]
+
+**Accent Color:** [COLOR]
+
+**Preferred Theme:** [LIGHT / DARK / BOTH]
+
+If no colors are provided, choose a professional color palette that matches the student's profession.
+
+Do not overuse gradients, animations, shadows, or decorative elements.
+
+Prioritize:
+
+* Typography
+* Spacing
+* Visual hierarchy
+* Alignment
+* Consistency
+* White space
+* Strong project presentation
+
+---
+
+# 5. WEBSITE STRUCTURE
+
+Create the following sections.
+
+## A. NAVIGATION
+
+Create a responsive navigation bar containing:
+
+* Logo / Name
+* Home
+* About
+* Skills
+* Experience
+* Education
+* Projects
+* Services
+* Contact
+
+Include a clear CTA such as:
+
+**"Let's Work Together"** or **"View My Work"**
+
+On mobile, use a professional mobile navigation menu.
+
+---
+
+# 6. HERO SECTION
+
+Create a strong first impression.
+
+Include:
+
+* Name
+* Professional title
+* Short introduction
+* Primary CTA
+* Secondary CTA
+* Professional image/avatar
+* Optional decorative visual element
+
+Example CTAs:
+
+**View My Projects**
+
+**Download CV**
+
+**Let's Talk**
+
+The hero should immediately communicate:
+
+1. Who I am
+2. What I do
+3. What I can offer
+4. Where the visitor should go next
+
+Add subtle animation, but keep it professional.
+
+---
+
+# 7. ABOUT SECTION
+BOUT SECTION
+I am a Computer Science student interested in Data Science, Artificial Intelligence, Data Analysis, and Backend Development. My goal is to build practical technology solutions that use data to solve real-world problems.
+I am continuously developing my skills in Python, SQL, Machine Learning, AI, and backend technologies while working on academic and practical projects. I enjoy learning new technologies, working collaboratively with teams, and turning ideas into useful digital solutions.
+
+# 8. PROFILE / PERSONAL INFORMATION
+
+Create a visually attractive information section containing relevant details such as:
+
+* Name
+* Role
+* Location
+* Experience
+* Availability
+* Email
+* Languages
+* Interests
+
+Do not show information that has not been provided unless clearly marked as placeholder content.
+
+---
+
+# 9. SKILLS SECTION Data Science & AI
+Data Analysis
+Machine Learning
+Artificial Intelligence
+Data-driven problem solving
+
+### Backend
+
+[JavaScript
+Node.js
+Express.js]
+
+### Programming Languages
+
+[Python
+JavaScript
+c++
+java]
+
+### Databases
+
+[SQL
+MongoDB]
+
+### Tools
+
+[Git
+GitHub
+VS Code]
+
+### Other
+[
+Problem Solving
+Teamwork
+Communication
+]
+
+Use appropriate visual representations such as:
+
+* Skill cards
+* Technology badges
+* Icons
+* Progress indicators where appropriate
+
+Do NOT use misleading percentage bars unless actual skill levels are provided.
+
+---
+
+# 10. EXPERIENCE SECTION
+
+Create a professional timeline or card-based experience section.
+
+For each experience include:
+
+* Job title
+* Company
+* Location
+* Date
+* Responsibilities
+* Achievements
+* Technologies used
+
+Experience data:
+
+[PASTE EXPERIENCE HERE]
+
+If there is no professional experience, create an alternative section highlighting:
+
+* Internships
+* Freelance work
+* Academic projects
+* Volunteer work
+* Open-source contributions
+
+---
+
+# 11. EDUCATION SECTION
+
+Include:
+
+
+* Degree Bachelor`s Degree in Computer science 
+* University : Modern academy 
+* Location :maddi
+* Start date :2023
+* Graduation date :2027
+* Relevant coursework :
+Computer Science
+Data Science
+Artificial Intelligence
+Software Development
+machine learning 
+Databases
+Backend Development
+
+
+---
+
+# 12. PROJECTS SECTION
+
+This is one of the most important sections.
+
+Create a premium project showcase.
+
+For every project include:
+
+* Project image
+* Project name
+* Short description
+* Problem
+* Solution
+* Role
+* Technologies
+* Features
+* GitHub link
+* Live demo link
+* Case study link if available
+
+Projects:
+
+## Project 1
+
+
+MANAGEMENT SYSTEM
+* Name: Event Management System
+* Category:
+Web Application / MVC / Backend / Database
+Description:
+An academic Event Management System designed to manage events and related user and booking information.
+The project focuses on building a structured web application using MVC architecture, database models, and backend functionality.
+Main Entities:
+User
+Category
+Event
+Booking
+User Information Includes:
+User ID
+Full Name
+Email
+Password
+Role
+Core Features:
+User management
+Event management
+Event categories
+Event booking
+Database relationships
+MVC architecture
+Technologies:
+C#
+ASP.NET MVC
+Entity Framework
+SQL Server
+HTML
+CSS
+JavaScript
+Only show technologies that are actually used in the final implementation.
+Role:
+Academic Project Developer
+
+## Project 2
+
+**Name:** [PROJECT NAME]
+
+**Description:** [DESCRIPTION]
+
+**Problem:** [PROBLEM]
+
+**Solution:** [SOLUTION]
+
+**Technologies:** [TECHNOLOGIES]
+
+**GitHub:** [URL]
+
+**Live Demo:** [URL]
+
+**Image:** [IMAGE URL / FILE]
+
+---
+
+Add additional projects using the same structure.
+
+Display projects in a visually interesting layout.
+
+Include filtering by technology/category if it improves the experience.
+
+---
+
+# 13. PROJECT DETAILS / CASE STUDIES
+
+For important projects, create a detailed project view.
+
+Each project detail page should contain:
+
+1. Project hero image
+2. Project overview
+3. Problem
+4. Goals
+5. Research
+6. Design process
+7. Development process
+8. Technologies
+9. Challenges
+10. Solutions
+11. Results
+12. Screenshots
+13. GitHub
+14. Live Demo
+15. Next/Previous project navigation
+
+Make project pages visually impressive and easy to read.
+
+---
+
+# 14. SERVICES SECTION
+
+o not present the student as a professional freelancer unless she explicitly provides that information.
+Instead, use a section titled:
+Areas I Can Work With
+Include:
+Backend Development :
+Building backend logic, REST APIs, database integration, and server-side functionality.
+Data Analysis :
+Working with structured data to identify patterns, organize information, and generate useful insights.
+Database Development :
+Designing and working with relational and NoSQL databases.
+AI & Data-Driven Applications
+Exploring applications that combine software development, data, and artificial intelligence.
+Web Application Development :
+Building structured web applications using modern development technologies.
+Each item should be presented as an area of technical interest / capability rather than a claim of professional freelance service
+
+# 15. ACHIEVEMENTS / CERTIFICATIONS
+
+DEPI — AI & Data Science Track
+* Type: Professional Training
+* Program: Digital Egypt Pioneers Initiative (DEPI)
+* Track: AI & Data Science
+* Duration: Approximately 6 months
+* Status: [joniuor]
+Do not invent completion status, grades, certificates, or awards
+
+Data:
+
+[PASTE ACHIEVEMENTS HERE]
+
+Use cards or a timeline.
+Oracle University
+Include only verified certificates.
+Certificate: [ADD EXACT CERTIFICATE NAME]
+Platform: Oracle University
+Date: [ADD DATE]
+Credential: [ADD CREDENTIAL URL IF AVAILABLE]
+Do not invent certificate names or completion details.
+---
+
+# 16. TESTIMONIALS
+
+If testimonials are available, create a testimonials section.
+
+Testimonials:
+
+[PASTE TESTIMONIALS HERE]
+
+If no testimonials are provided, do not invent fake testimonials.
+
+---
+
+# 17. BLOG / ARTICLES
+
+If the student has articles, tutorials, or technical posts, create a blog section.
+
+Articles:
+
+[PASTE ARTICLES HERE]
+
+If there are no articles, either omit the section or create a simple "Coming Soon" area.
+
+---
+
+# 18. CONTACT SECTION
+
+Create a professional contact section.
+
+Include:
+
+* Email :farahnasser449gmail.com
+* Phone if provided
+* Social links 
+* Contact form 
+
+Contact form fields:
+
+* Name farah
+* Email: farahnasser449gmail.com
+* Subject
+* Message
+
+Include proper validation and useful error messages.
+
+If a backend/email service is not configured, make the form UI production-ready and clearly identify what integration is required.
+
+---
+
+# 19. FOOTER
+
+Create a complete footer containing:
+
+* Name farah
+* Professional title 
+* Short description :
+* Navigation links
+* Social links
+* Contact information
+* Copyright
+* Back-to-top button
+
+---
+
+# 20. IMAGES & ASSETS
+
+Use professional visual assets throughout the website.
+
+Required asset categories may include:
+
+* Profile photo
+* Project screenshots
+* Project thumbnails
+* Technology logos/icons
+* Background visuals
+* Decorative graphics
+* Social icons
+* Favicon
+* Open Graph image
+
+If real images are provided, use them.
+
+If images are not provided:
+
+* Use high-quality placeholder images
+* Clearly identify where the student should replace them
+* Do not use random irrelevant images
+* Use image aspect ratios appropriate for their intended placement
+
+Create a clear asset structure such as:
+
+/public
+/images
+/projects
+/icons
+/logos
+
+---
+
+# 21. TECHNOLOGY STACK
+
+Use a modern production-ready stack.
+
+Preferred:
+
+* React
+* TypeScript
+* Tailwind CSS
+* Modern component architecture
+* Responsive design
+* Accessible HTML
+* Reusable components
+
+If using Next.js is appropriate, use:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+Use appropriate libraries only when they provide real value.
+
+Possible libraries:
+
+* Lucide Icons
+* Framer Motion / Motion
+* React Hook Form
+* Zod
+
+Avoid unnecessary dependencies.
+
+---
+
+# 22. COMPONENT ARCHITECTURE
+
+Build the website using reusable components.
+
+For example:
+
+* Navbar
+* Hero
+* About
+* Skills
+* Experience
+* Education
+* ProjectCard
+* ProjectGrid
+* ProjectDetails
+* ServiceCard
+* CertificationCard
+* TestimonialCard
+* ContactForm
+* Footer
+* Button
+* Badge
+* Modal
+* SectionHeader
+
+Avoid putting the entire website into one huge component.
+
+Keep the code clean and maintainable.
+
+---
+
+# 23. RESPONSIVE DESIGN
+
+The website must work perfectly on:
+
+* Mobile phones
+* Tablets
+* Laptops
+* Desktop monitors
+* Large screens
+
+Test layouts for common breakpoints.
+
+Pay special attention to:
+
+* Navigation
+* Typography
+* Project cards
+* Images
+* Buttons
+* Forms
+* Spacing
+* Horizontal overflow
+
+There must be no broken layouts or horizontal scrolling.
+
+---
+
+# 24. ACCESSIBILITY
+
+Follow modern accessibility practices.
+
+Include:
+
+* Semantic HTML
+* Proper heading hierarchy
+* Alt text
+* Keyboard navigation
+* Visible focus states
+* Sufficient color contrast
+* Accessible buttons
+* Accessible forms
+* ARIA attributes where necessary
+* Reduced-motion support
+
+The website should be usable with keyboard navigation.
+
+---
+
+# 25. SEO
+
+Implement basic technical SEO.
+
+Include:
+
+* Page title
+* Meta description
+* Semantic HTML
+* Open Graph metadata
+* Twitter/X metadata where appropriate
+* Canonical URL placeholder
+* Proper heading hierarchy
+* Image alt text
+* Favicon
+* robots.txt
+* sitemap where supported
+
+Use SEO-friendly content based on the student's profession.
+
+Example:
+
+"[NAME] — [PROFESSION] Portfolio"
+
+---
+
+# 26. PERFORMANCE
+
+Optimize the website for performance.
+
+Requirements:
+
+* Optimized images
+* Lazy loading where appropriate
+* Avoid unnecessary JavaScript
+* Avoid excessive animations
+* Reusable components
+* Good Core Web Vitals
+* Responsive images
+* Minimal dependencies
+
+Do not sacrifice performance for visual effects.
+
+---
+
+# 27. ANIMATIONS
+
+Add subtle professional animations such as:
+
+* Fade-in
+* Slide-up
+* Hover effects
+* Smooth scrolling
+* Project card transitions
+* Navigation transitions
+* Page transitions if appropriate
+
+Animations should enhance the UX rather than distract from the content.
+
+Respect:
+
+`prefers-reduced-motion`
+
+---
+
+# 28. DARK / LIGHT MODE
+
+If appropriate, implement:
+
+* Light mode
+* Dark mode
+* Theme toggle
+* Persistent theme preference
+
+Make sure both themes have good contrast and visual consistency.
+
+---
+
+# 29. ERROR / EMPTY STATES
+
+Handle empty or missing content professionally.
+
+Examples:
+
+* No projects
+* Missing project image
+* Form errors
+* Broken links
+* Missing data
+
+Do not leave broken UI elements.
+
+---
+
+# 30. SECURITY
+
+Follow basic frontend security best practices.
+
+Do not expose:
+
+* API keys
+* Secrets
+* Passwords
+* Private credentials
+
+Use environment variables for secrets when integrations require them.
+
+---
+
+# 31. CONTENT RULES
+
+Do not invent:
+
+* Jobs
+* Degrees
+* Certifications
+* Awards
+* Client names
+* Testimonials
+* Companies
+* Projects
+* Technologies
+
+If information is missing, use clearly marked placeholders such as:
+
+`[ADD YOUR EXPERIENCE HERE]`
+
+Do not present placeholder information as real facts.
+
+---
+
+# 32. DESIGN QUALITY RULES
+
+The final website should NOT look like a generic AI-generated template.
+
+Avoid:
+
+* Excessive gradients
+* Too many cards
+* Random icons
+* Excessive glassmorphism
+* Huge meaningless text
+* Too many animations
+* Poor contrast
+* Inconsistent spacing
+* Generic stock photos
+* Unnecessary sections
+
+Instead prioritize:
+
+* Strong typography
+* Excellent spacing
+* Visual hierarchy
+* Consistent components
+* Professional project presentation
+* Meaningful interactions
+* High-quality responsive layouts
+
+---
+
+# 33. CONTENT PRIORITY
+
+Prioritize content in this order:
+
+1. Identity
+2. Value proposition
+3. Projects
+4. Skills
+5. Experience
+6. Education
+7. Achievements
+8. Contact
+
+The visitor should understand the student's professional profile within the first few seconds.
+
+---
+
+# 34. FINAL QUALITY CHECK
+
+Before considering the website complete, verify:
+
+### Design
+
+* [ ] Professional visual hierarchy
+* [ ] Consistent typography
+* [ ] Consistent spacing
+* [ ] Consistent components
+* [ ] Strong visual identity
+
+### Content
+
+* [ ] All student information included
+* [ ] Projects included
+* [ ] Skills included
+* [ ] Experience included
+* [ ] Education included
+* [ ] Contact information included
+
+### Technical
+
+* [ ] Responsive
+* [ ] Accessible
+* [ ] SEO-ready
+* [ ] Fast
+* [ ] Clean component structure
+* [ ] No unnecessary dependencies
+* [ ] No console errors
+* [ ] No broken links
+* [ ] No horizontal overflow
+
+### UX
+
+* [ ] Navigation works
+* [ ] Buttons work
+* [ ] Project links work
+* [ ] Contact form works or has a clearly defined integration point
+* [ ] Mobile menu works
+* [ ] Animations are smooth
+* [ ] Keyboard navigation works
+
+---
+
+# 35. IMPORTANT IMPLEMENTATION INSTRUCTION
+
+Do not stop after creating the visual design.
+
+Actually implement the complete website.
+
+Generate:
+
+* All pages
+* All components
+* All styling
+* All responsive layouts
+* All interactions
+* All navigation
+* All project sections
+* All required assets/placeholders
+* SEO configuration
+* Accessibility features
+* Error states
+
+The result should be as close as possible to a **real portfolio website that could be deployed immediately**.
+
+When something is unspecified, make a professional design decision rather than asking unnecessary questions.
+
+However, **never invent personal facts**.
+
+Use placeholders for missing personal information.
+
+---
+
+# 36. DEPLOYMENT READINESS
+
+Prepare the project so it can be deployed to a modern hosting platform.
+
+Make sure:
+
+* Build succeeds
+* No TypeScript errors
+* No console errors
+* No broken imports
+* No missing assets
+* Responsive behavior works
+* Environment variables are documented
+* README contains setup instructions
+* Project structure is clean
+
+Include a README explaining:
+
+1. How to install
+2. How to run locally
+3. How to build
+4. How to deploy
+5. Where to replace personal information
+6. Where to replace images
+7. Where to add projects
+8. Required environment variables
+
+---
+
+# 37. FINAL OUTPUT
+
+After implementing the website, provide:
+
+1. A summary of the design decisions
+2. Complete project structure
+3. List of technologies used
+4. List of required assets
+5. List of placeholders that the student must replace
+6. Setup instructions
+7. Deployment instructions
+8. Any integrations that still need configuration
+
+Most importantly:
+
+**Build the website, don't just describe it.**
+
+The final result should look like a polished portfolio created by a professional designer and senior frontend developer.
